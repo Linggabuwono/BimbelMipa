@@ -12,7 +12,7 @@
             <div class="row">
                 <br>
                 <div class="col-md-4">
-                    <h1>Jadwal Bimbel</h1>
+                    <h1>Jadwal Bimbel Mipa</h1>
                 </div>
                 <div class="col-md-7">
                     <!-- Button trigger modal -->
